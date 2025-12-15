@@ -22,3 +22,6 @@ models/
 # IDEs
 .vscode/
 .idea/
+
+# Qodo AI
+.qodo
