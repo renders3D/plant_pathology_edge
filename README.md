@@ -45,7 +45,7 @@ graph TD
 ```
 
 ## 📂 Project Structure
-```mermaid
+```text
 PlantPathology_Edge/
 ├── models/
 │   └── plant_doctor_thor.tflite  # EfficientNetB0 (INT8/Float32 Quantized)
