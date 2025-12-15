@@ -1,0 +1,5 @@
+opencv-python
+numpy
+tensorflow  # O tflite-runtime en la Raspberry real
+folium      # Para generar el mapa de calor
+pillow
